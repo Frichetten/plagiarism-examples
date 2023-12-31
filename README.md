@@ -40,3 +40,36 @@ Original:
 ![Original](/screenshots/k8s-api-anonymous-access-original2.png)
 
 HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/a464d9d73dda55ceab3d96ef0055e84348d83315/pentesting-cloud/kubernetes-security/pentesting-kubernetes-services.md?plain=1#L143
+
+## Pentesting CI/CD Methodology
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-ci-cd/pentesting-ci-cd-methodology
+
+Original: https://medium.com/cider-sec/ppe-poisoned-pipeline-execution-34f4e8d0d4e9
+
+HackTricks:
+
+![HackTricks](/screenshots/pentesting-cicd-methodology-hacktricks.png)
+
+Original:
+
+![Original](/screenshots/pentesting-cicd-methodologyh-original.png)
+
+HackTricks:
+
+![HackTricks](/screenshots/pentesting-cicd-methodology2-hacktricks.png)
+
+Original:
+
+![Original](/screenshots/pentesting-cicd-methodology-original2.png)
+
+HackTricks:
+
+![HackTricks](/screenshots/pentesting-cicd-methodology-hacktricks3.png)
+
+Original:
+
+![Original](/screenshots/pentesting-ci-cd-methodologyh-original3.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/a464d9d73dda55ceab3d96ef0055e84348d83315/pentesting-ci-cd/pentesting-ci-cd-methodology.md?plain=1#L62
+
