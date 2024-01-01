@@ -83,8 +83,10 @@ Original: https://rhinosecuritylabs.com/aws/abusing-vpc-traffic-mirroring-in-aws
 
 HackTricks:
 
-![HackTricks]()
+![HackTricks](/screenshots/vpc-traffic-mirroring-hacktricks1.png)
 
 Original:
 
-![Original]()
+![Original](/screenshots/vpc-traffic-mirroring-original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/7c3928fa06bfc8074e47e1bb6a3d634e463e1955/pentesting-cloud/aws-security/aws-services/aws-ec2-ebs-elb-ssm-vpc-and-vpn-enum/aws-malicious-vpc-mirror.md#L1
