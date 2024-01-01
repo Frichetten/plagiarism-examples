@@ -71,5 +71,20 @@ Original:
 
 ![Original](/screenshots/pentesting-ci-cd-methodologyh-original3.png)
 
+
+
 HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/a464d9d73dda55ceab3d96ef0055e84348d83315/pentesting-ci-cd/pentesting-ci-cd-methodology.md?plain=1#L62
 
+## AWS - Malicious VPC Mirror
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-post-exploitation/aws-ec2-ebs-ssm-and-vpc-post-exploitation/aws-malicious-vpc-mirror
+
+Original: https://rhinosecuritylabs.com/aws/abusing-vpc-traffic-mirroring-in-aws/ (Scroll down to "VPC Traffic Mirroring: A Potential Solution to Network Inspection in AWS")
+
+HackTricks:
+
+![HackTricks]()
+
+Original:
+
+![Original]()
