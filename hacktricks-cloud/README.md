@@ -167,3 +167,4 @@ Original:
 
 ![Original](/hacktricks-cloud/screenshots/scm-ip-whitelisting-bypass-original3.png)
 
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/82133e91256e311a56e589521fd1cd89c54e2739/pentesting-ci-cd/jenkins-security/scm-ip-whitelisting-bypass.md?plain=1#L47
