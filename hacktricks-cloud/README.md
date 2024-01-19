@@ -168,3 +168,58 @@ Original:
 ![Original](/hacktricks-cloud/screenshots/scm-ip-whitelisting-bypass-original3.png)
 
 HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/82133e91256e311a56e589521fd1cd89c54e2739/pentesting-ci-cd/jenkins-security/scm-ip-whitelisting-bypass.md?plain=1#L47
+
+## Airflow RBAC
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-ci-cd/apache-airflow-security/airflow-rbac
+
+Original: https://airflow.apache.org/docs/apache-airflow/1.10.11/security.html#default-roles
+
+Copies information straight from documentation with no reference.
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/airflow_rbac_hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/airflow_rbac_original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/623faa6352acb1144120097e1d9bbcdd70661573/pentesting-ci-cd/apache-airflow-security/airflow-rbac.md?plain=1#L21
+
+## Terraform Enterprise Security
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-ci-cd/terraform-security/terraform-enterprise-security
+
+Original: https://hackingthe.cloud/terraform/terraform_enterprise_metadata_service/
+
+Some attempts have been made to obfuscate the original text.
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/terraform_enterprise_security_hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/terraform_enterprise_security_original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5f8cc0364f5d9e239c1ec1a132c4f7627469b779/pentesting-ci-cd/terraform-security/terraform-enterprise-security.md?plain=1#L21
+
+## Atlantis Security
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-ci-cd/atlantis-security
+
+Original: https://www.runatlantis.io/docs/provider-credentials.html
+
+Just copy and pasting from the documentation. There are numerous examples.
+
+HackTricks: 
+
+![HackTricks](/hacktricks-cloud/screenshots/atlantis_security_hacktrticks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/atlantis_security_original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5f8cc0364f5d9e239c1ec1a132c4f7627469b779/pentesting-ci-cd/atlantis-security.md?plain=1#L56
+
