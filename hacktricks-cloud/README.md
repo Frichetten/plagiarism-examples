@@ -223,3 +223,20 @@ Original:
 
 HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5f8cc0364f5d9e239c1ec1a132c4f7627469b779/pentesting-ci-cd/atlantis-security.md?plain=1#L56
 
+## Altered Security
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-blob-storage
+
+Original: Certified Azure Red Team Professional (CARTP) Exam by Altered Security.
+
+Example of commands in HackTricks which leak information for the CARTP exam.
+
+HackTricks:
+
+![HackTricks](https://github.com/Frichetten/plagiarism-examples/assets/107083757/886198bf-5c34-42a6-8ce8-ba96f3120b3a)
+
+Original:
+
+![CARTP_Exam_Snippet](https://github.com/Frichetten/plagiarism-examples/assets/107083757/eee8e3e7-923d-43d8-855c-02199f3451d8)
+
+HackTricks Github permalink: https://github.com/carlospolop/hacktricks-cloud/blob/master/pentesting-cloud/azure-security/az-services/az-blob-storage.md?plain=1#L156
