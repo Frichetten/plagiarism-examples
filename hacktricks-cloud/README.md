@@ -229,7 +229,7 @@ HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-serv
 
 Original: Certified Azure Red Team Professional (CARTP) Exam by Altered Security.
 
-Example of commands in HackTricks which leak information for the CARTP exam.
+Example of commands in HackTricks which leak information for the CARTP exam. In this example, the HackTricks enumeration commands for Blob Storage leaks the name of a container within the CARTP.
 
 HackTricks:
 
