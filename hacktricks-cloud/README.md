@@ -1,5 +1,5 @@
 # HackTricks Cloud
-The following are examples of plagiarism from HackTricks Cloud.
+The following are examples of plagiarism from HackTricks Cloud. Please note that this is not an exhaustive list and there are certainly things that were missed.
 
 ## lambda:UpdateFunctionCode
 
@@ -75,22 +75,6 @@ Original:
 
 HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/a464d9d73dda55ceab3d96ef0055e84348d83315/pentesting-ci-cd/pentesting-ci-cd-methodology.md?plain=1#L62
 
-## AWS - Malicious VPC Mirror
-
-HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-post-exploitation/aws-ec2-ebs-ssm-and-vpc-post-exploitation/aws-malicious-vpc-mirror
-
-Original: https://rhinosecuritylabs.com/aws/abusing-vpc-traffic-mirroring-in-aws/ (Scroll down to "VPC Traffic Mirroring: A Potential Solution to Network Inspection in AWS")
-
-HackTricks:
-
-![HackTricks](/hacktricks-cloud/screenshots/vpc-traffic-mirroring-hacktricks1.png)
-
-Original:
-
-![Original](/hacktricks-cloud/screenshots/vpc-traffic-mirroring-original.png)
-
-HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/7c3928fa06bfc8074e47e1bb6a3d634e463e1955/pentesting-cloud/aws-security/aws-services/aws-ec2-ebs-elb-ssm-vpc-and-vpn-enum/aws-malicious-vpc-mirror.md#L1
-
 ## GH Actions - Cache Poisoning
 
 HackTricks: https://cloud.hacktricks.xyz/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-cache-poisoning
@@ -124,7 +108,6 @@ Original:
 HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/82133e91256e311a56e589521fd1cd89c54e2739/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-cache-poisoning.md?plain=1#L19
 
 ## Gh Actions - Context Script Injections
-
 HackTricks: https://cloud.hacktricks.xyz/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-context-script-injections
 
 Original: https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions?learn=getting_started&learnProduct=actions (HackTricks does not reference this on their page)
@@ -240,3 +223,214 @@ Original:
 ![CARTP_Exam_Snippet](https://github.com/Frichetten/plagiarism-examples/assets/107083757/eee8e3e7-923d-43d8-855c-02199f3451d8)
 
 HackTricks Github permalink: https://github.com/carlospolop/hacktricks-cloud/blob/master/pentesting-cloud/azure-security/az-services/az-blob-storage.md?plain=1#L156
+
+## AWS - Abusing Lambda Extensions
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-persistence/aws-lambda-persistence/aws-abusing-lambda-extensions
+
+Original: https://aws.amazon.com/blogs/compute/building-extensions-for-aws-lambda-in-preview/
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/aws-abusing-lambda-extensions-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/aws-abusing-lambda-extensions-original.png)
+
+HackTricks Github permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5cebf61ab0344aeb632e5bcf5e301b75c93f39a7/pentesting-cloud/aws-pentesting/aws-persistence/aws-lambda-persistence/aws-abusing-lambda-extensions.md?plain=1#L21
+
+## AWS - S3 Persistence
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-persistence/aws-s3-persistence
+
+Original: https://hackingthe.cloud/aws/post_exploitation/s3_acl_persistence/
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/aws-s3-persistence-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/aws-s3-persistence-original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5cebf61ab0344aeb632e5bcf5e301b75c93f39a7/pentesting-cloud/aws-pentesting/aws-persistence/aws-s3-persistence.md?plain=1#L29
+
+## AWS - SSM Post-Exploitation
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-post-exploitation/aws-ec2-ebs-ssm-and-vpc-post-exploitation/aws-ssm-post-exploitation
+
+Original: https://frichetten.com/blog/ssm-agent-tomfoolery/
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/aws-ssm-post-exploitation-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/aws-ssm-post-exploitation-original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5cebf61ab0344aeb632e5bcf5e301b75c93f39a7/pentesting-cloud/aws-security/aws-services/aws-ec2-ebs-elb-ssm-vpc-and-vpn-enum/aws-ssm-post-exploitation.md?plain=1#L37
+
+## AWS - Malicious VPC Mirror
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-post-exploitation/aws-ec2-ebs-ssm-and-vpc-post-exploitation/aws-malicious-vpc-mirror
+
+Original: https://rhinosecuritylabs.com/aws/abusing-vpc-traffic-mirroring-in-aws/
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/aws-malicious-vpc-mirror-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/aws-malicious-vpc-mirror-original.png)
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/aws-malicious-vpc-mirror-2-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/aws-malicious-vpc-mirror-original2.png)
+
+HackTricks GitHub Permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5cebf61ab0344aeb632e5bcf5e301b75c93f39a7/pentesting-cloud/aws-security/aws-services/aws-ec2-ebs-elb-ssm-vpc-and-vpn-enum/aws-malicious-vpc-mirror.md?plain=1#L25
+
+## AWS - Steal Lambda Requests
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-post-exploitation/aws-lambda-post-exploitation/aws-warm-lambda-persistence
+
+Original: https://unit42.paloaltonetworks.com/gaining-persistency-vulnerable-lambdas/
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/aws-steal-lambda-requests-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/aws-steal-lambda-requests-original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5cebf61ab0344aeb632e5bcf5e301b75c93f39a7/pentesting-cloud/aws-pentesting/aws-post-exploitation/aws-lambda-post-exploitation/aws-warm-lambda-persistence.md?plain=1#L32
+
+## AWS - Steal Lambda Requests 2
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-post-exploitation/aws-lambda-post-exploitation/aws-warm-lambda-persistence#python-runtime-3
+
+Original: https://hackingthe.cloud/aws/post_exploitation/lambda_persistence/#python-runtime
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/aws-python-lambda-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/aws-python-lambda-original1.png)
+
+![Original](/hacktricks-cloud/screenshots/aws-python-lambda-original2.png)
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/aws-ruby-lambda-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/aws-ruby-lambda-original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5cebf61ab0344aeb632e5bcf5e301b75c93f39a7/pentesting-cloud/aws-pentesting/aws-post-exploitation/aws-lambda-post-exploitation/aws-warm-lambda-persistence.md?plain=1#L54
+
+## AWS - S3 Post Exploitation
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-post-exploitation/aws-s3-post-exploitation
+
+Original: https://rhinosecuritylabs.com/aws/s3-ransomware-part-1-attack-vector/
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/aws-s3-post-exploitation-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/aws-s3-post-exploitation-original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5cebf61ab0344aeb632e5bcf5e301b75c93f39a7/pentesting-cloud/aws-pentesting/aws-post-exploitation/aws-s3-post-exploitation.md?plain=1#L34
+
+## AWS - STS Post Exploitation
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-post-exploitation/aws-sts-post-exploitation#from-console-to-iam-creds
+
+Original: https://hackingthe.cloud/aws/post_exploitation/get_iam_creds_from_console_session/
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/aws-sts-post-exploitation-hacktricks.png)
+
+Original: 
+
+![Original](/hacktricks-cloud/screenshots/aws-sts-post-exploitation-original.png)
+
+HackTricks GitHub Permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5cebf61ab0344aeb632e5bcf5e301b75c93f39a7/pentesting-cloud/aws-pentesting/aws-post-exploitation/aws-sts-post-exploitation.md?plain=1#L101
+
+## AWS - CloudWatch Enum
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-cloudwatch-enum#avoid-detection
+
+Original: https://hackingthe.cloud/aws/avoiding-detection/modify-guardduty-config/#modify-cloudwatch-events-rule
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/aws-cloudwatch-enum-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/aws-cloudwatch-enum-original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5cebf61ab0344aeb632e5bcf5e301b75c93f39a7/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-cloudwatch-enum.md?plain=1#L102
+
+## Az - Illicit Consent Grant
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-illicit-consent-grant#what-is-illicit-consent-grant-attack
+
+Original: https://www.alteredsecurity.com/post/introduction-to-365-stealer
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/az-illicit-consent-grant-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/az-illicit-consent-grant-original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5cebf61ab0344aeb632e5bcf5e301b75c93f39a7/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-illicit-consent-grant.md?plain=1#L46
+
+## Az - Primary Refresh Token (PRT)
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-lateral-movement-cloud-on-prem/az-primary-refresh-token-prt
+
+Original: https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/az-primary-refresh-token-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/az-primary-refresh-token-original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5cebf61ab0344aeb632e5bcf5e301b75c93f39a7/pentesting-cloud/azure-security/az-lateral-movement-cloud-on-prem/az-primary-refresh-token-prt.md?plain=1#L21
+
+## Az - Roadtx - Authentication
+
+HackTricks: https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-lateral-movement-cloud-on-prem/az-roadtx-authentication#registering-a-device
+
+Original: https://dirkjanm.io/introducing-roadtools-token-exchange-roadtx/
+
+HackTricks:
+
+![HackTricks](/hacktricks-cloud/screenshots/az-roadtx-auth-hacktricks.png)
+
+Original:
+
+![Original](/hacktricks-cloud/screenshots/az-roadtx-auth-original.png)
+
+HackTricks GitHub permalink: https://github.com/carlospolop/hacktricks-cloud/blob/5cebf61ab0344aeb632e5bcf5e301b75c93f39a7/pentesting-cloud/azure-security/az-lateral-movement-cloud-on-prem/az-roadtx-authentication.md?plain=1#L36
+
